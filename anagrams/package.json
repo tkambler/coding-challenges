@@ -1,0 +1,14 @@
+{
+  "name": "anagrams",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha *.spec.js"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
