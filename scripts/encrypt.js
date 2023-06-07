@@ -25,6 +25,10 @@ const { sync: glob } = require('glob');
 
   fs.writeFileSync('solutions.zip', Buffer.from(mz.zip()));
 
+  for (const solution of solutions) {
+    fs.unlinkSync(solution);
+  }
+
   console.log('Done.');
 
 })();

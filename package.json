@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "encrypt": "node scripts/encrypt"
+    "encrypt": "node scripts/encrypt",
+    "decrypt": "node scripts/decrypt"
   },
   "author": "",
   "license": "ISC",
