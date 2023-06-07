@@ -4,11 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "encrypt": "node scripts/encrypt"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "glob": "^10.2.7",
+    "minizip-asm.js": "^1.0.10",
     "mocha": "^10.2.0"
   }
 }
