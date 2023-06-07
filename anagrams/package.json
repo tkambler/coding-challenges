@@ -7,8 +7,5 @@
     "test": "mocha *.spec.js"
   },
   "author": "",
-  "license": "UNLICENSED",
-  "devDependencies": {
-    "mocha": "^10.2.0"
-  }
+  "license": "UNLICENSED"
 }
