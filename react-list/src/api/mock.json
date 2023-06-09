@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1000,
+    "title": "Groceries",
+    "tasks": [
+      {
+        "id": 1001,
+        "title": "Milk",
+        "subtasks": [
+          {
+            "id": 1002,
+            "title": "2% Reduced Fat",
+            "subtasks": [
+              {
+                "id": 1003,
+                "title": "Organic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2000,
+        "title": "Eggs"
+      },
+      {
+        "id": 3000,
+        "title": "Bread",
+        "subtasks": [
+          {
+            "id": 3001,
+            "title": "Whole wheat"
+          },
+          {
+            "id": 3002,
+            "title": "White"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2000,
+    "title": "Household chores",
+    "tasks": [
+      {
+        "id": 2001,
+        "title": "Vacuuming"
+      },
+      {
+        "id": 2002,
+        "title": "Dusting"
+      },
+      {
+        "id": 2003,
+        "title": "Laundry",
+        "subtasks": [
+          {
+            "id": 2004,
+            "title": "Wash clothes",
+            "subtasks": [
+              {
+                "id": 2005,
+                "title": "Use Organic Detergent",
+                "subtasks": [
+                  {
+                    "id": 2006,
+                    "title": "Separate White Clothes"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2007,
+            "title": "Dry clothes"
+          },
+          {
+            "id": 2008,
+            "title": "Fold clothes"
+          }
+        ]
+      }
+    ]
+  }
+]
